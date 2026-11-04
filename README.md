@@ -47,14 +47,14 @@ I'm **Nzabana Merci**, a software development student from **Rwanda**, currently
       <h3>🎬 Agasobanuye Free</h3>
       <p>A movie-discovery and entertainment platform focused on a clean browsing experience.</p>
       <p><strong>Built with:</strong> React · TypeScript · Supabase</p>
-      <a href="https://agasobanuyefree.vercel.app/">Live website ↗</a> ·
-      <a href="https://github.com/nmcosta5/Agsobanuye-New">Source code ↗</a>
+      <a href="https://agasobanuyefree.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-101820?style=for-the-badge&logo=vercel&logoColor=58C4B2" alt="Agasobanuye live demo" /></a>
+      <a href="https://github.com/nmcosta5/Agsobanuye-New"><img src="https://img.shields.io/badge/Source_Code-101820?style=for-the-badge&logo=github&logoColor=F4F8F7" alt="Agasobanuye source code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎧 Sonora Lemon</h3>
       <p>A music-focused web experience exploring modern interface design and interactive frontend experiences.</p>
       <p><strong>Focus:</strong> Frontend · UI/UX · Web design</p>
-      <a href="https://sonoralemon.vercel.app/">Live website ↗</a>
+      <a href="https://sonoralemon.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-101820?style=for-the-badge&logo=vercel&logoColor=58C4B2" alt="Sonora Lemon live demo" /></a>
     </td>
   </tr>
   <tr>
@@ -62,12 +62,12 @@ I'm **Nzabana Merci**, a software development student from **Rwanda**, currently
       <h3>💸 Spend Wise</h3>
       <p>A collaborative expense-management project built as part of a team development experience.</p>
       <p><strong>Focus:</strong> Problem solving · Collaboration · Web development</p>
-      <a href="https://github.com/nmcosta5/GROUP3">Source code ↗</a>
+      <a href="https://github.com/nmcosta5/GROUP3"><img src="https://img.shields.io/badge/Source_Code-101820?style=for-the-badge&logo=github&logoColor=F4F8F7" alt="Spend Wise source code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ More projects</h3>
       <p>I'm continuously experimenting with interfaces, applications, and practical software solutions.</p>
-      <a href="https://github.com/nmcosta5?tab=repositories">Explore all repositories ↗</a>
+      <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-101820?style=for-the-badge&logo=github&logoColor=58C4B2" alt="Explore all projects" /></a>
     </td>
   </tr>
 </table>
@@ -91,7 +91,8 @@ I'm **Nzabana Merci**, a software development student from **Rwanda**, currently
 
 <div align="center">
   <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-101820?style=for-the-badge&logo=vercel&logoColor=58C4B2" alt="Portfolio" /></a>
-  <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=F4F8F7" alt="GitHub" /></a>
+  <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Contact-101820?style=for-the-badge&logo=gmail&logoColor=58C4B2" alt="Contact by email" /></a>
 </div>
 
 <div align="center">
