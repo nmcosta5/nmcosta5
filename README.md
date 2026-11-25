@@ -123,52 +123,72 @@ I care about clean user experiences, thoughtful design, practical problem-solvin
 
 <p align="center"><a href="https://github.com/nmcosta5?tab=repositories"><b>Explore all public repositories →</b></a></p>
 
-## 🧰 Technology toolbox
+## 🧰 Technology ecosystem
 
 <div align="center">
 
-  <p><sub>MY DEVELOPMENT STACK · TOOLS I USE TO DESIGN, BUILD AND SHIP</sub></p>
+  <p><sub>TECHNOLOGIES IDENTIFIED ACROSS MY REPOSITORIES · WEB · BACKEND · AI · MOBILE · GAMES</sub></p>
+
+  <img src="https://skillicons.dev/icons?i=js,ts,php,kotlin,html,css&perline=6" alt="JavaScript, TypeScript, PHP, Kotlin, HTML and CSS"/>
+
+  <br/><br/>
 
   <table>
     <tr>
       <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>💻 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=4" alt="JavaScript, TypeScript, HTML and CSS"/>
-        <br/><sub>JavaScript · TypeScript · HTML5 · CSS3</sub>
+        <h3>🎨 Frontend & UI</h3>
+        <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap&perline=5" alt="React, Angular, Vite, Tailwind CSS and Bootstrap"/>
+        <br/><sub>React · Angular · Vite · Tailwind CSS · Bootstrap · Responsive UI · Framer Motion · Motion · Styled Components</sub>
       </td>
       <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>🎨 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=3" alt="React, Tailwind CSS and Vite"/>
-        <br/><sub>React · Responsive UI · Tailwind CSS · Vite</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Node.js and Express"/>
-        <br/><sub>Node.js · REST APIs</sub>
-      </td>
-      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>🗄️ Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="MySQL, MongoDB and Supabase"/>
-        <br/><sub>MySQL · MongoDB · Supabase</sub>
+        <h3>⚙️ Backend & APIs</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&perline=4" alt="Node.js, Express, NestJS and PHP"/>
+        <br/><sub>Node.js · Express · NestJS · PHP · REST APIs · JWT · Socket.IO · Axios</sub>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>🛠️ Workflow</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=4" alt="Git, GitHub, npm and VS Code"/>
-        <br/><sub>Git · GitHub · npm · VS Code</sub>
+        <h3>🗄️ Databases & Data</h3>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" alt="MongoDB, MySQL, PostgreSQL, Firebase and Supabase"/>
+        <br/><sub>MongoDB · MySQL · PostgreSQL · Firebase · Firestore · Supabase · Prisma · Mongoose · Room</sub>
       </td>
       <td width="50%" align="center" valign="top" bgcolor="#0D1117">
-        <h3>🚀 Deployment</h3>
-        <img src="https://skillicons.dev/icons?i=vercel&perline=1" alt="Vercel"/>
-        <br/><sub>Vercel · Production deployment</sub>
+        <h3>🧠 AI & Integrations</h3>
+        <img src="https://skillicons.dev/icons?i=firebase,googlecloud&perline=2" alt="Firebase and Google Cloud"/>
+        <br/><sub>Google Gemini API · Gemini Live · AI chat · Voice AI · Web Audio API · HLS.js · Stripe · MTN Mobile Money</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>📱 Mobile & Interactive</h3>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,threejs&perline=3" alt="Kotlin, Android Studio and Three.js"/>
+        <br/><sub>Kotlin · Jetpack Compose · Material 3 · Android Media3 · Hilt · Matter.js · Three.js · Canvas API</sub>
+      </td>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>🛠️ Workflow & Delivery</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vercel,figma&perline=6" alt="Git, GitHub, npm, VS Code, Vercel and Figma"/>
+        <br/><sub>Git · GitHub · npm · VS Code · Vercel · PWA · ESLint · Postman</sub>
       </td>
     </tr>
   </table>
 
 </div>
+
+### Languages and technologies found across my projects
+
+| Area | Technologies |
+|---|---|
+| **Programming languages** | JavaScript, TypeScript, PHP, Kotlin, HTML5, CSS3, SQL |
+| **Frontend frameworks** | React, Angular, Vite, Tailwind CSS, Bootstrap |
+| **Backend frameworks** | Node.js, Express.js, NestJS, PHP |
+| **Databases & ORMs** | MongoDB, MySQL, PostgreSQL, Firebase/Firestore, Supabase, Mongoose, Prisma, Room |
+| **AI & real-time** | Google Gemini, Gemini Live, voice AI, Web Audio API, Socket.IO, HLS.js |
+| **Mobile development** | Android, Kotlin, Jetpack Compose, Material 3, Media3, Hilt |
+| **Graphics & interaction** | Three.js, React Three Fiber, Matter.js, HTML Canvas, Framer Motion |
+| **Payments & integrations** | Stripe, MTN Mobile Money, Axios, REST APIs, JWT |
+| **Build & deployment** | Git, GitHub, npm, Vite, Vercel, PWA tooling |
+
+<sub>This is a technology inventory derived from repository documentation and available project manifests. It describes tools present across different projects, not a claim that every technology is used in every application. Some repositories are private, so their names and implementation details are intentionally not exposed here.</sub>
 
 ## 📊 GitHub dashboard
 
