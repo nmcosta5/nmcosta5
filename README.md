@@ -4,7 +4,7 @@
   <p><em>Pixels, motion, and ideas brought to life on the web.</em></p>
 
   <p>
-    <a href="https://nmcosta5.github.io/nmcosta5/"><strong>Launch the interactive WebGL particle field ↗</strong></a>
+    <a href="https://github.com/nmcosta5/nmcosta5/blob/main/index.html"><strong>View the interactive WebGL canvas source ↗</strong></a>
   </p>
   <p>
     <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=63D9FF" alt="Visit portfolio" /></a>
@@ -29,9 +29,9 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 
 I built a real-time particle field with **WebGL2**—not a screenshot or animated image. Move your pointer to tilt the scene, click to send a ripple through the particles, and use the field-energy control to change their motion.
 
-**[Launch the interactive canvas](https://nmcosta5.github.io/nmcosta5/)** · [View the source code](index.html)
+**[View the interactive canvas source](index.html)**
 
-> GitHub profile READMEs are static and cannot run JavaScript or WebGL inline, so the canvas opens as a live page hosted from this repository.
+> GitHub profile READMEs are static and cannot run JavaScript or WebGL inline. GitHub Pages is not enabled for this repository yet. To make the canvas live, open **Settings → Pages**, choose **Deploy from a branch**, select **`main`** and **`/(root)`**, then save. GitHub will serve it at `https://nmcosta5.github.io/nmcosta5/`.
 
 ## Creative interests
 
