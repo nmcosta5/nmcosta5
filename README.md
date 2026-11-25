@@ -1,21 +1,36 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6C63FF,25:00C2FF,55:00D4A1,80:FFB86B,100:FF6B9A&text=NZABANA%20MERCI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20BUILDER%20%7C%20RWANDA&descSize=15&descAlignY=60&animation=twinkling" alt="Colorful animated header introducing Nzabana Merci" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=0:111827,18:312E81,42:6D28D9,68:0891B2,100:059669&text=NZABANA%20MERCI&fontSize=76&fontColor=FFFFFF&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20DIGITAL%20CREATOR%20%E2%80%A2%20RWANDA&descSize=17&descAlignY=58&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" alt="Nzabana Merci — Software Developer from Rwanda" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=750&color=00D4A1&center=true&vCenter=true&width=760&lines=Building+ideas+into+real+digital+experiences;React+%7C+TypeScript+%7C+Node.js;Full-stack+development+%7C+UI%2FUX+%7C+Creative+tech;Always+learning.+Always+building." alt="Animated developer introduction" />
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=820&height=45&lines=I+DESIGN.+I+BUILD.+I+KEEP+IMPROVING.;Turning+ideas+into+useful+digital+products.;Full-Stack+Development+%7C+Creative+Technology;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js" alt="Animated personal tagline" />
 
   <p>
-    <a href="https://mercihub.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore%20repositories-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <b>Curious mind. Creative problem-solver. Builder of digital experiences.</b>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=nmcosta5&label=PROFILE%20VISITORS&color=6C63FF&style=for-the-badge" alt="Profile visitor counter" />
-    <img src="https://img.shields.io/github/followers/nmcosta5?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github" alt="GitHub followers" />
+    <a href="https://mercihub.vercel.app/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_WORK-Portfolio-7C3AED?style=for-the-badge&labelColor=111827" alt="Explore my portfolio" /></a>
+    <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/⌘_VIEW_CODE-GitHub-0891B2?style=for-the-badge&labelColor=111827" alt="View GitHub repositories" /></a>
+    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-Email-059669?style=for-the-badge&labelColor=111827" alt="Contact by email" /></a>
   </p>
 
-  <p><b>📍 Rwanda &nbsp; • &nbsp; 🎓 Software Development Graduate (2026) &nbsp; • &nbsp; 💻 Full-Stack Development</b></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nmcosta5&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/nmcosta5?label=GitHub%20followers&style=flat-square&color=0891B2&logo=github" alt="GitHub followers" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/BASED_IN-Rwanda%20🇷🇼-059669?style=flat-square" alt="Based in Rwanda" />
+    <img src="https://img.shields.io/badge/GRADUATED-Software%20Development-7C3AED?style=flat-square" alt="Software Development graduate" />
+    <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-0891B2?style=flat-square" alt="Full-stack development" />
+  </p>
+
+  <br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:06B6D4,100:10B981" alt="" />
 
 </div>
 
