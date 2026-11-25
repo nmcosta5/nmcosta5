@@ -93,6 +93,10 @@ No article links are listed here yet. This section is reserved for new posts and
 
 ## Toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,supabase,mysql,git,github,vscode&amp;perline=6&amp;theme=dark" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Supabase, MySQL, Git, GitHub, and VS Code" />
+</p>
+
 <details>
   <summary><strong>Languages and frontend</strong></summary>
   <br />
@@ -108,7 +112,7 @@ No article links are listed here yet. This section is reserved for new posts and
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;hide=issues%2Ccontribs%2Cprs&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="GitHub statistics for nmcosta5, with issues, pull requests, and contributions hidden" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="Top programming languages for nmcosta5" />
 </div>
 <p align="center">
