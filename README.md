@@ -4,10 +4,15 @@
   <p>Learning by building thoughtful web experiences, one project at a time.</p>
 
   <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+thoughtful+web+experiences;Learning+React+and+TypeScript;Exploring+creative+interfaces" alt="Animated introduction: building thoughtful web experiences, learning React and TypeScript, and exploring creative interfaces" />
+  </p>
+
+  <p>
     <a href="#about-me">ABOUT</a> ·
     <a href="#current-focus">CURRENT FOCUS</a> ·
     <a href="#featured-projects">PROJECTS</a> ·
     <a href="#toolkit">TOOLKIT</a> ·
+    <a href="#github-activity">STATS</a> ·
     <a href="#lets-connect">CONTACT</a>
   </p>
 
@@ -18,6 +23,9 @@
   </p>
 
   <p><code>WEB DEVELOPMENT</code> <code>UI/UX</code> <code>CREATIVE INTERFACES</code></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=Profile%20views&amp;color=0ea5e9&amp;style=flat" alt="Profile views counter" />
+  </p>
 </div>
 
 ---
@@ -91,6 +99,14 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
   <br />
   Node.js · Supabase · MySQL · Git · GitHub · VS Code · Vercel
 </details>
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Top programming languages for nmcosta5" />
+</div>
+<p align="center"><sub>Cards update dynamically and summarize activity from public repositories.</sub></p>
 
 ## Let’s connect
 
