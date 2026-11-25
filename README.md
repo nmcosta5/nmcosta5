@@ -1,55 +1,50 @@
 <div align="center">
-  <h1>Nzabana Merci</h1>
-  <p><strong>Software Development Student · Rwanda</strong></p>
-  <p>Learning by building thoughtful web experiences, one project at a time.</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:1D4ED8,100:06B6D4&amp;height=230&amp;section=header&amp;text=Nzabana%20Merci&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Rwanda&amp;descAlignY=60&amp;descSize=16" alt="Animated blue-to-cyan gradient wave header introducing Nzabana Merci" />
+
+  <p><strong>Building thoughtful digital experiences, one project at a time.</strong></p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+experiences+one+thoughtful+detail+at+a+time;Turning+creative+ideas+into+useful+web+apps;Learning%2C+shipping%2C+and+growing+every+day" alt="Animated introduction: building thoughtful experiences, turning ideas into useful web apps, and continuing to learn" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=850&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+ideas+into+useful+web+apps;Learning+by+building+and+shipping;Exploring+full-stack+and+creative+web+design" alt="Animated phrases about building useful web apps, learning through projects, and exploring creative web design" />
   </p>
 
   <p>
-    <a href="#about-me">ABOUT</a> ·
-    <a href="#current-focus">CURRENT FOCUS</a> ·
+    <a href="#about">ABOUT</a> ·
+    <a href="#current-focus">FOCUS</a> ·
     <a href="#featured-projects">PROJECTS</a> ·
     <a href="#recent-writing">WRITING</a> ·
-    <a href="#toolkit">TOOLKIT</a> ·
+    <a href="#tech-stack">TECH STACK</a> ·
     <a href="#github-activity">STATS</a> ·
-    <a href="#lets-connect">CONTACT</a>
+    <a href="#contact">CONTACT</a>
   </p>
 
   <p>
-    <a href="https://nzabana.vercel.app/">Portfolio</a> ·
-    <a href="https://github.com/nmcosta5">GitHub</a> ·
-    <a href="mailto:nzabana.merci@gmail.com">Email</a>
+    <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1D4ED8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore portfolio" /></a>
+    <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-nmcosta5-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile nmcosta5" /></a>
+    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Nzabana Merci" /></a>
   </p>
 
-  <p><code>WEB DEVELOPMENT</code> <code>UI/UX</code> <code>CREATIVE INTERFACES</code></p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=Profile%20views&amp;color=a78bfa&amp;style=flat" alt="Profile views counter" />
+    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=PROFILE%20VIEWS&amp;color=06B6D4&amp;style=flat-square" alt="Profile views counter" />
   </p>
 </div>
 
 ---
 
-## About me
+## About
 
-I’m **Nzabana Merci**, a software development student from **Rwanda**, currently studying at **Giheke TSS**. I enjoy turning ideas into useful, accessible, and thoughtfully designed digital products. I learn by building, solving practical problems, and refining the details that make an experience feel complete.
-
-| Based in | Studying | Interested in |
-|:--|:--|:--|
-| Rwanda | Software development at Giheke TSS | Full-stack web development, UI/UX, and interactive visuals |
+I’m **Nzabana Merci**, a software development student in **Rwanda**, currently studying at **Giheke TSS**. I enjoy turning ideas into useful, accessible, and thoughtfully designed digital products. I learn by building practical projects and refining the details that make an experience feel complete.
 
 ## Current focus
 
 - Strengthening my skills in **React, TypeScript, JavaScript, and Node.js**
 - Building practical web projects and improving my frontend craft
-- Exploring pixel-inspired design, motion, and interactive 3D particle concepts
-- Working toward becoming a professional full-stack software developer
+- Exploring **UI/UX, motion, and interactive visuals**
+- Growing toward becoming a professional full-stack software developer
 
 ## Featured projects
 
 <details>
-  <summary><strong>Agasobanuye Free</strong> — movie discovery and entertainment</summary>
+  <summary><strong>Agasobanuye Free</strong> <sub>Movie discovery</sub></summary>
   <br />
   A movie-discovery platform focused on a clean browsing experience.
   <br /><br />
@@ -60,7 +55,7 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 </details>
 
 <details>
-  <summary><strong>Sonora Lemon</strong> — a music-focused web experience</summary>
+  <summary><strong>Sonora Lemon</strong> <sub>Music-focused web experience</sub></summary>
   <br />
   A frontend project exploring modern interface design and interactive web experiences.
   <br /><br />
@@ -70,7 +65,7 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 </details>
 
 <details>
-  <summary><strong>Spend Wise</strong> — collaborative expense management</summary>
+  <summary><strong>Spend Wise</strong> <sub>Collaborative expense management</sub></summary>
   <br />
   A team project centered on a practical expense-management experience.
   <br /><br />
@@ -80,7 +75,7 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 </details>
 
 <details>
-  <summary><strong>More projects</strong> — browse all repositories</summary>
+  <summary><strong>More projects</strong> <sub>Browse all repositories</sub></summary>
   <br />
   I’m continually experimenting with interfaces, applications, and practical software solutions.
   <br /><br />
@@ -89,45 +84,45 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 
 ## Recent writing
 
-No article links are listed here yet. This section is reserved for new posts and technical write-ups.
+New article links will appear here as posts and technical write-ups are published.
 
-## Toolkit
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,supabase,mysql,git,github,vscode&amp;perline=6&amp;theme=dark" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Supabase, MySQL, Git, GitHub, and VS Code" />
 </p>
 
 <details>
-  <summary><strong>Languages and frontend</strong></summary>
+  <summary><strong>View skills by area</strong></summary>
   <br />
-  HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS
-</details>
-
-<details>
-  <summary><strong>Backend, data, and tools</strong></summary>
-  <br />
-  Node.js · Supabase · MySQL · Git · GitHub · VS Code · Vercel
+  <strong>Languages and frontend:</strong> HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS
+  <br /><br />
+  <strong>Backend, data, and tools:</strong> Node.js · Supabase · MySQL · Git · GitHub · VS Code · Vercel
 </details>
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;hide=issues%2Ccontribs%2Cprs&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="GitHub statistics for nmcosta5, with issues, pull requests, and contributions hidden" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="Top programming languages for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;hide=issues%2Ccontribs%2Cprs&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=DBEAFE&amp;icon_color=818CF8&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=DBEAFE&amp;icon_color=818CF8&amp;hide_border=true" alt="Most-used programming languages for nmcosta5" />
 </div>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nmcosta5&amp;theme=dark&amp;hide_border=true&amp;background=1e1b2e&amp;stroke=6d5b8c&amp;ring=c4b5fd&amp;fire=f472b6&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;currStreakLabel=c4b5fd&amp;sideLabels=a78bfa&amp;dates=938ba1" alt="GitHub contribution streak for nmcosta5" />
+  <img src="https://streak-stats.demolab.com?user=nmcosta5&amp;theme=dark&amp;hide_border=true&amp;background=0B1220&amp;stroke=1E3A8A&amp;ring=67E8F9&amp;fire=818CF8&amp;currStreakNum=DBEAFE&amp;sideNums=DBEAFE&amp;currStreakLabel=67E8F9&amp;sideLabels=93C5FD&amp;dates=94A3B8" alt="GitHub contribution streak for nmcosta5" />
 </p>
-<p align="center"><sub>Cards update dynamically and summarize activity from public repositories.</sub></p>
 
-## Let’s connect
+<p align="center"><sub>Live cards reflect activity in public repositories.</sub></p>
 
-I’m always glad to connect with people who enjoy building useful software and exploring creative ideas for the web.
+## Contact
 
-- **Portfolio:** [nzabana.vercel.app](https://nzabana.vercel.app/)
-- **GitHub:** [@nmcosta5](https://github.com/nmcosta5)
-- **Email:** [nzabana.merci@gmail.com](mailto:nzabana.merci@gmail.com)
+<p align="center">
+  <a href="https://nzabana.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/nmcosta5">GitHub</a> ·
+  <a href="mailto:nzabana.merci@gmail.com">Email</a>
+</p>
 
-<div align="center">
-  <sub>Great software is built one thoughtful improvement at a time.</sub>
-</div>
+<p align="center"><sub>Thanks for stopping by — keep building, keep learning.</sub></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,100:1D4ED8&amp;height=110&amp;section=footer" alt="Blue gradient wave footer" />
+</p>
