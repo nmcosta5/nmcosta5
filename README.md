@@ -1,91 +1,96 @@
 <div align="center">
   <h1>Nzabana Merci</h1>
-  <p><strong>Software Development Student · Full-Stack Web Development · Creative Interfaces</strong></p>
-  <p><em>Pixels, motion, and ideas brought to life on the web.</em></p>
+  <p><strong>Software Development Student · Rwanda</strong></p>
+  <p>Learning by building thoughtful web experiences, one project at a time.</p>
 
   <p>
-    <a href="https://github.com/nmcosta5/nmcosta5/blob/main/index.html"><strong>View the interactive WebGL canvas source ↗</strong></a>
+    <a href="#about-me">ABOUT</a> ·
+    <a href="#current-focus">CURRENT FOCUS</a> ·
+    <a href="#featured-projects">PROJECTS</a> ·
+    <a href="#toolkit">TOOLKIT</a> ·
+    <a href="#lets-connect">CONTACT</a>
   </p>
+
   <p>
-    <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=63D9FF" alt="Visit portfolio" /></a>
-    <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-Follow-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" /></a>
-    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-101820?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Send email" /></a>
+    <a href="https://nzabana.vercel.app/">Portfolio</a> ·
+    <a href="https://github.com/nmcosta5">GitHub</a> ·
+    <a href="mailto:nzabana.merci@gmail.com">Email</a>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=nmcosta5&style=flat&color=63D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <p><code>WEB DEVELOPMENT</code> <code>UI/UX</code> <code>CREATIVE INTERFACES</code></p>
 </div>
 
 ---
 
 ## About me
 
-I’m **Nzabana Merci**, a software development student from **Rwanda**, currently studying at **Giheke TSS**. I enjoy turning ideas into useful, accessible, and thoughtfully designed digital products. I learn by building, improving the details, and taking on practical challenges.
+I’m **Nzabana Merci**, a software development student from **Rwanda**, currently studying at **Giheke TSS**. I enjoy turning ideas into useful, accessible, and thoughtfully designed digital products. I learn by building, solving practical problems, and refining the details that make an experience feel complete.
 
-- Focused on software development and hands-on project work
-- Interested in full-stack web development and thoughtful UI/UX
-- Currently strengthening my skills in **React, TypeScript, JavaScript, and Node.js**
+| Based in | Studying | Interested in |
+|:--|:--|:--|
+| Rwanda | Software development at Giheke TSS | Full-stack web development, UI/UX, and interactive visuals |
+
+## Current focus
+
+- Strengthening my skills in **React, TypeScript, JavaScript, and Node.js**
+- Building practical web projects and improving my frontend craft
+- Exploring pixel-inspired design, motion, and interactive 3D particle concepts
 - Working toward becoming a professional full-stack software developer
-
-## Interactive WebGL experience
-
-I built a real-time particle field with **WebGL2**—not a screenshot or animated image. Move your pointer to tilt the scene, click to send a ripple through the particles, and use the field-energy control to change their motion.
-
-**[View the interactive canvas source](index.html)**
-
-> GitHub profile READMEs are static and cannot run JavaScript or WebGL inline. GitHub Pages is not enabled for this repository yet. To make the canvas live, open **Settings → Pages**, choose **Deploy from a branch**, select **`main`** and **`/(root)`**, then save. GitHub will serve it at `https://nmcosta5.github.io/nmcosta5/`.
-
-## Creative interests
-
-I’m drawn to digital experiences that combine clear, useful interfaces with a distinctive visual style. I’m especially interested in pixel-inspired design, expressive motion, and interactive 3D particle effects—and in making those ideas feel smooth and purposeful on the web.
-
-## Tech stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,supabase,mysql,git,github,vscode,vercel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Tailwind CSS, Supabase, MySQL, Git, GitHub, VS Code, and Vercel" />
-</div>
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Agasobanuye Free</h3>
-      <p>A movie-discovery and entertainment platform focused on a clean browsing experience.</p>
-      <p><strong>Built with:</strong> React · TypeScript · Supabase</p>
-      <a href="https://agasobanuyefree.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-101820?style=for-the-badge&logo=vercel&logoColor=63D9FF" alt="Agasobanuye Free live demo" /></a>
-      <a href="https://github.com/nmcosta5/Agsobanuye-New"><img src="https://img.shields.io/badge/Source_Code-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Agasobanuye Free source code" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Sonora Lemon</h3>
-      <p>A music-focused web experience exploring modern interface design and interactive frontend experiences.</p>
-      <p><strong>Focus:</strong> Frontend · UI/UX · Web design</p>
-      <a href="https://sonoralemon.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-101820?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Sonora Lemon live demo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Spend Wise</h3>
-      <p>A collaborative expense-management project built as part of a team development experience.</p>
-      <p><strong>Focus:</strong> Problem solving · Collaboration · Web development</p>
-      <a href="https://github.com/nmcosta5/GROUP3"><img src="https://img.shields.io/badge/Source_Code-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Spend Wise source code" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More projects</h3>
-      <p>I’m continuously experimenting with interfaces, applications, and practical software solutions.</p>
-      <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-101820?style=for-the-badge&logo=github&logoColor=63D9FF" alt="Explore all repositories" /></a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>Agasobanuye Free</strong> — movie discovery and entertainment</summary>
+  <br />
+  A movie-discovery platform focused on a clean browsing experience.
+  <br /><br />
+  <strong>Built with:</strong> React · TypeScript · Supabase
+  <br /><br />
+  <a href="https://agasobanuyefree.vercel.app/">Live demo</a> ·
+  <a href="https://github.com/nmcosta5/Agsobanuye-New">Source code</a>
+</details>
 
-## GitHub overview
+<details>
+  <summary><strong>Sonora Lemon</strong> — a music-focused web experience</summary>
+  <br />
+  A frontend project exploring modern interface design and interactive web experiences.
+  <br /><br />
+  <strong>Focus:</strong> Frontend · UI/UX · Web design
+  <br /><br />
+  <a href="https://sonoralemon.vercel.app/">Open the live demo</a>
+</details>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63D9FF&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&layout=compact&hide_border=true&bg_color=0D1117&title_color=63D9FF&text_color=CBD5E1" alt="Most used languages" />
-</div>
+<details>
+  <summary><strong>Spend Wise</strong> — collaborative expense management</summary>
+  <br />
+  A team project centered on a practical expense-management experience.
+  <br /><br />
+  <strong>Focus:</strong> Problem solving · Collaboration · Web development
+  <br /><br />
+  <a href="https://github.com/nmcosta5/GROUP3">View the source repository</a>
+</details>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nmcosta5&hide_border=true&background=0D1117&ring=63D9FF&fire=A78BFA&currStreakLabel=63D9FF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F4F8F7&sideNums=F4F8F7" alt="GitHub contribution streak" />
-</div>
+<details>
+  <summary><strong>More projects</strong> — browse all repositories</summary>
+  <br />
+  I’m continually experimenting with interfaces, applications, and practical software solutions.
+  <br /><br />
+  <a href="https://github.com/nmcosta5?tab=repositories">Explore all my repositories</a>
+</details>
+
+## Toolkit
+
+<details>
+  <summary><strong>Languages and frontend</strong></summary>
+  <br />
+  HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS
+</details>
+
+<details>
+  <summary><strong>Backend, data, and tools</strong></summary>
+  <br />
+  Node.js · Supabase · MySQL · Git · GitHub · VS Code · Vercel
+</details>
 
 ## Let’s connect
 
