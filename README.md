@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:1D4ED8,100:06B6D4&amp;height=230&amp;section=header&amp;text=Nzabana%20Merci&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Rwanda&amp;descAlignY=60&amp;descSize=16" alt="Animated blue-to-cyan gradient wave header introducing Nzabana Merci" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3440,50:3B4252,100:5E81AC&amp;height=230&amp;section=header&amp;text=Nzabana%20Merci&amp;fontSize=44&amp;fontColor=ECEFF4&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Rwanda&amp;descAlignY=60&amp;descSize=16" alt="Animated Nord blue wave header introducing Nzabana Merci" />
 
   <p><strong>Building thoughtful digital experiences, one project at a time.</strong></p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=850&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+ideas+into+useful+web+apps;Learning+by+building+and+shipping;Exploring+full-stack+and+creative+web+design" alt="Animated phrases about building useful web apps, learning through projects, and exploring creative web design" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=850&amp;color=88C0D0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+ideas+into+useful+web+apps;Learning+by+building+and+shipping;Exploring+full-stack+and+creative+web+design" alt="Animated phrases about building useful web apps, learning through projects, and exploring creative web design" />
   </p>
 
   <p>
@@ -18,13 +18,25 @@
   </p>
 
   <p>
-    <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-1D4ED8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore portfolio" /></a>
-    <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-nmcosta5-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile nmcosta5" /></a>
-    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Nzabana Merci" /></a>
+    <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-5E81AC?style=for-the-badge&amp;logo=vercel&amp;logoColor=ECEFF4" alt="Explore portfolio" /></a>
+    <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-nmcosta5-3B4252?style=for-the-badge&amp;logo=github&amp;logoColor=ECEFF4" alt="GitHub profile nmcosta5" /></a>
+    <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-4C566A?style=for-the-badge&amp;logo=github&amp;logoColor=ECEFF4" alt="Explore GitHub repositories" /></a>
+    <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-B48EAD?style=for-the-badge&amp;logo=gmail&amp;logoColor=ECEFF4" alt="Email Nzabana Merci" /></a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=PROFILE%20VIEWS&amp;color=06B6D4&amp;style=flat-square" alt="Profile views counter" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-3B4252?style=flat-square&amp;logo=html5&amp;logoColor=88C0D0" alt="HTML documentation" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-3B4252?style=flat-square&amp;logo=css3&amp;logoColor=88C0D0" alt="CSS documentation" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-3B4252?style=flat-square&amp;logo=javascript&amp;logoColor=88C0D0" alt="JavaScript documentation" /></a>
+    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3B4252?style=flat-square&amp;logo=typescript&amp;logoColor=88C0D0" alt="TypeScript documentation" /></a>
+    <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-3B4252?style=flat-square&amp;logo=react&amp;logoColor=88C0D0" alt="React documentation" /></a>
+    <a href="https://nodejs.org/en/learn"><img src="https://img.shields.io/badge/Node.js-3B4252?style=flat-square&amp;logo=nodedotjs&amp;logoColor=88C0D0" alt="Node.js documentation" /></a>
+    <a href="https://tailwindcss.com/docs"><img src="https://img.shields.io/badge/Tailwind_CSS-3B4252?style=flat-square&amp;logo=tailwindcss&amp;logoColor=88C0D0" alt="Tailwind CSS documentation" /></a>
+    <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/Supabase-3B4252?style=flat-square&amp;logo=supabase&amp;logoColor=88C0D0" alt="Supabase documentation" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=PROFILE%20VIEWS&amp;color=88C0D0&amp;style=flat-square" alt="Profile views counter" />
   </p>
 </div>
 
@@ -103,12 +115,12 @@ New article links will appear here as posts and technical write-ups are publishe
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;hide=issues%2Ccontribs%2Cprs&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=DBEAFE&amp;icon_color=818CF8&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=DBEAFE&amp;icon_color=818CF8&amp;hide_border=true" alt="Most-used programming languages for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;hide=issues%2Ccontribs%2Cprs&amp;bg_color=2E3440&amp;title_color=88C0D0&amp;text_color=D8DEE9&amp;icon_color=81A1C1&amp;hide_border=true" alt="Nord-themed GitHub statistics for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=2E3440&amp;title_color=88C0D0&amp;text_color=D8DEE9&amp;icon_color=81A1C1&amp;hide_border=true" alt="Nord-themed top programming languages for nmcosta5" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nmcosta5&amp;theme=dark&amp;hide_border=true&amp;background=0B1220&amp;stroke=1E3A8A&amp;ring=67E8F9&amp;fire=818CF8&amp;currStreakNum=DBEAFE&amp;sideNums=DBEAFE&amp;currStreakLabel=67E8F9&amp;sideLabels=93C5FD&amp;dates=94A3B8" alt="GitHub contribution streak for nmcosta5" />
+  <img src="https://streak-stats.demolab.com?user=nmcosta5&amp;theme=dark&amp;hide_border=true&amp;background=2E3440&amp;stroke=4C566A&amp;ring=88C0D0&amp;fire=BF616A&amp;currStreakNum=D8DEE9&amp;sideNums=ECEFF4&amp;currStreakLabel=88C0D0&amp;sideLabels=81A1C1&amp;dates=9AA5B4" alt="Nord-themed GitHub contribution streak for nmcosta5" />
 </p>
 
 <p align="center"><sub>Live cards reflect activity in public repositories.</sub></p>
@@ -124,5 +136,5 @@ New article links will appear here as posts and technical write-ups are publishe
 <p align="center"><sub>Thanks for stopping by — keep building, keep learning.</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,100:1D4ED8&amp;height=110&amp;section=footer" alt="Blue gradient wave footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:88C0D0,100:5E81AC&amp;height=110&amp;section=footer" alt="Nord blue wave footer" />
 </p>
