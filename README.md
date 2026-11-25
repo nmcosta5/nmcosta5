@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="assets/profile-particles.jpg" alt="Nzabana Merci with a glowing pixel and 3D particle background" width="100%" />
-
   <h1>Nzabana Merci</h1>
   <p><strong>Software Development Student · Full-Stack Web Development · Creative Interfaces</strong></p>
   <p><em>Pixels, motion, and ideas brought to life on the web.</em></p>
 
   <p>
+    <a href="https://nmcosta5.github.io/nmcosta5/"><strong>Launch the interactive WebGL particle field ↗</strong></a>
+  </p>
+  <p>
     <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=63D9FF" alt="Visit portfolio" /></a>
     <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-Follow-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" /></a>
     <a href="mailto:nzabana.merci@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-101820?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Send email" /></a>
   </p>
-
   <img src="https://komarev.com/ghpvc/?username=nmcosta5&style=flat&color=63D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
@@ -24,6 +24,14 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 - Interested in full-stack web development and thoughtful UI/UX
 - Currently strengthening my skills in **React, TypeScript, JavaScript, and Node.js**
 - Working toward becoming a professional full-stack software developer
+
+## Interactive WebGL experience
+
+I built a real-time particle field with **WebGL2**—not a screenshot or animated image. Move your pointer to tilt the scene, click to send a ripple through the particles, and use the field-energy control to change their motion.
+
+**[Launch the interactive canvas](https://nmcosta5.github.io/nmcosta5/)** · [View the source code](index.html)
+
+> GitHub profile READMEs are static and cannot run JavaScript or WebGL inline, so the canvas opens as a live page hosted from this repository.
 
 ## Creative interests
 
