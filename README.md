@@ -127,48 +127,84 @@ I care about clean user experiences, thoughtful design, practical problem-solvin
 
 <div align="center">
 
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite and Tailwind CSS" />
+  <p><sub>MY DEVELOPMENT STACK · TOOLS I USE TO DESIGN, BUILD AND SHIP</sub></p>
 
-  <h3>Backend & data</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase&perline=6" alt="Node.js, Express, MySQL, MongoDB and Supabase" />
-
-  <h3>Tools & platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm&perline=6" alt="Git, GitHub, VS Code, Figma, Vercel and npm" />
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>💻 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=4" alt="JavaScript, TypeScript, HTML and CSS"/>
+        <br/><sub>JavaScript · TypeScript · HTML5 · CSS3</sub>
+      </td>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=3" alt="React, Tailwind CSS and Vite"/>
+        <br/><sub>React · Responsive UI · Tailwind CSS · Vite</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Node.js and Express"/>
+        <br/><sub>Node.js · REST APIs</sub>
+      </td>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>🗄️ Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="MySQL, MongoDB and Supabase"/>
+        <br/><sub>MySQL · MongoDB · Supabase</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>🛠️ Workflow</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=4" alt="Git, GitHub, npm and VS Code"/>
+        <br/><sub>Git · GitHub · npm · VS Code</sub>
+      </td>
+      <td width="50%" align="center" valign="top" bgcolor="#0D1117">
+        <h3>🚀 Deployment</h3>
+        <img src="https://skillicons.dev/icons?i=vercel&perline=1" alt="Vercel"/>
+        <br/><sub>Vercel · Production deployment</sub>
+      </td>
+    </tr>
+  </table>
 
 </div>
-
-| Area | Technologies |
-|---|---|
-| Languages | JavaScript, TypeScript, HTML5, CSS3 |
-| Frontend | React, responsive UI, Tailwind CSS, Vite |
-| Backend | Node.js, REST APIs |
-| Databases | MySQL, MongoDB, Supabase |
-| Workflow | Git, GitHub, npm, VS Code |
-| Deployment | Vercel |
 
 ## 📊 GitHub dashboard
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4A1&text_color=E6EDF3" alt="GitHub profile statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=E6EDF3" alt="Most used programming languages" />
+  <p><sub>LIVE OVERVIEW · CONTRIBUTIONS · LANGUAGE ACTIVITY</sub></p>
 
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=nmcosta5&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9A&currStreakLabel=00D4A1&sideLabels=00C2FF&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-
-  <br/><br/>
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nmcosta5&bg_color=0D1117&color=E6EDF3&line=6C63FF&point=00D4A1&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-  <br/><br/>
-
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=nmcosta5&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B7CFF&icon_color=36D6B0&text_color=E6EDF3&custom_title=Developer%20Overview" alt="GitHub profile overview"/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=36D6B0&text_color=E6EDF3&card_width=400&custom_title=Most%20Used%20Languages" alt="Most used programming languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="85%" src="https://streak-stats.demolab.com?user=nmcosta5&hide_border=true&background=0D1117&ring=8B7CFF&fire=FF9B70&currStreakLabel=36D6B0&sideLabels=8B7CFF&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nmcosta5&bg_color=0D1117&color=E6EDF3&line=8B7CFF&point=36D6B0&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nmcosta5&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub profile trophies"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-<sub>These are live community-hosted widgets. Some statistics may be delayed, cached, or unavailable temporarily. Private contribution details depend on GitHub privacy settings and widget support.</sub>
+<sub>Statistics are provided by community-hosted services and may be cached or temporarily unavailable. Private contribution details depend on GitHub privacy settings and widget support.</sub>
 
 ## 🌐 Find me online
 
