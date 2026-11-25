@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3440,50:3B4252,100:5E81AC&amp;height=230&amp;section=header&amp;text=Nzabana%20Merci&amp;fontSize=44&amp;fontColor=ECEFF4&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Development%20Student%20%7C%20Rwanda&amp;descAlignY=60&amp;descSize=16" alt="Animated Nord blue wave header introducing Nzabana Merci" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E3440,50:3B4252,100:5E81AC&amp;height=230&amp;section=header&amp;text=Nzabana%20Merci&amp;fontSize=44&amp;fontColor=ECEFF4&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Student%20at%20RP%20Tumba%20%7C%20Rwanda&amp;descAlignY=60&amp;descSize=16" alt="Animated Nord blue wave header introducing Nzabana Merci, a student at RP Tumba in Rwanda" />
 
-  <p><strong>Building thoughtful digital experiences, one project at a time.</strong></p>
+  <p><strong>Learning by building. Growing through every project.</strong></p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=850&amp;color=88C0D0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+ideas+into+useful+web+apps;Learning+by+building+and+shipping;Exploring+full-stack+and+creative+web+design" alt="Animated phrases about building useful web apps, learning through projects, and exploring creative web design" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=850&amp;color=88C0D0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Now+studying+at+RP+Tumba;Building+web+projects+and+learning+by+doing;Exploring+software+development+and+UI%2FUX" alt="Animated phrases about studying at RP Tumba, building projects, and exploring software development and UI/UX" />
   </p>
 
   <p>
@@ -18,6 +18,7 @@
   </p>
 
   <p>
+    <a href="https://new.rp.ac.rw/tumba/"><img src="https://img.shields.io/badge/College-RP%20Tumba-5E81AC?style=for-the-badge" alt="RP Tumba College" /></a>
     <a href="https://nzabana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-5E81AC?style=for-the-badge&amp;logo=vercel&amp;logoColor=ECEFF4" alt="Explore portfolio" /></a>
     <a href="https://github.com/nmcosta5"><img src="https://img.shields.io/badge/GitHub-nmcosta5-3B4252?style=for-the-badge&amp;logo=github&amp;logoColor=ECEFF4" alt="GitHub profile nmcosta5" /></a>
     <a href="https://github.com/nmcosta5?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-4C566A?style=for-the-badge&amp;logo=github&amp;logoColor=ECEFF4" alt="Explore GitHub repositories" /></a>
@@ -44,14 +45,14 @@
 
 ## About
 
-I’m **Nzabana Merci**, a software development student in **Rwanda**, currently studying at **Giheke TSS**. I enjoy turning ideas into useful, accessible, and thoughtfully designed digital products. I learn by building practical projects and refining the details that make an experience feel complete.
+Hi, I’m **Nzabana Merci**, an aspiring software developer from **Rwanda**. I graduated from secondary school in **2026** and am now studying at [RP Tumba (IPRC Tumba)](https://new.rp.ac.rw/tumba/), part of Rwanda Polytechnic. I enjoy building practical web projects, exploring thoughtful UI/UX, and learning by doing.
 
 ## Current focus
 
 - Strengthening my skills in **React, TypeScript, JavaScript, and Node.js**
-- Building practical web projects and improving my frontend craft
+- Building useful web projects and improving my frontend craft
 - Exploring **UI/UX, motion, and interactive visuals**
-- Growing toward becoming a professional full-stack software developer
+- Growing toward a career in full-stack software development
 
 ## Featured projects
 
