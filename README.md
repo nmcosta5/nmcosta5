@@ -4,13 +4,14 @@
   <p>Learning by building thoughtful web experiences, one project at a time.</p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+thoughtful+web+experiences;Learning+React+and+TypeScript;Exploring+creative+interfaces" alt="Animated introduction: building thoughtful web experiences, learning React and TypeScript, and exploring creative interfaces" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+experiences+one+thoughtful+detail+at+a+time;Turning+creative+ideas+into+useful+web+apps;Learning%2C+shipping%2C+and+growing+every+day" alt="Animated introduction: building thoughtful experiences, turning ideas into useful web apps, and continuing to learn" />
   </p>
 
   <p>
     <a href="#about-me">ABOUT</a> ·
     <a href="#current-focus">CURRENT FOCUS</a> ·
     <a href="#featured-projects">PROJECTS</a> ·
+    <a href="#recent-writing">WRITING</a> ·
     <a href="#toolkit">TOOLKIT</a> ·
     <a href="#github-activity">STATS</a> ·
     <a href="#lets-connect">CONTACT</a>
@@ -24,7 +25,7 @@
 
   <p><code>WEB DEVELOPMENT</code> <code>UI/UX</code> <code>CREATIVE INTERFACES</code></p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=Profile%20views&amp;color=0ea5e9&amp;style=flat" alt="Profile views counter" />
+    <img src="https://komarev.com/ghpvc/?username=nmcosta5&amp;label=Profile%20views&amp;color=a78bfa&amp;style=flat" alt="Profile views counter" />
   </p>
 </div>
 
@@ -86,6 +87,10 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
   <a href="https://github.com/nmcosta5?tab=repositories">Explore all my repositories</a>
 </details>
 
+## Recent writing
+
+No article links are listed here yet. This section is reserved for new posts and technical write-ups.
+
 ## Toolkit
 
 <details>
@@ -103,9 +108,12 @@ I’m **Nzabana Merci**, a software development student from **Rwanda**, current
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Top programming languages for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmcosta5&amp;show_icons=true&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="GitHub statistics for nmcosta5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmcosta5&amp;layout=compact&amp;langs_count=8&amp;bg_color=1e1b2e&amp;title_color=c4b5fd&amp;text_color=e2e8f0&amp;icon_color=f472b6&amp;hide_border=true" alt="Top programming languages for nmcosta5" />
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nmcosta5&amp;theme=dark&amp;hide_border=true&amp;background=1e1b2e&amp;stroke=6d5b8c&amp;ring=c4b5fd&amp;fire=f472b6&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;currStreakLabel=c4b5fd&amp;sideLabels=a78bfa&amp;dates=938ba1" alt="GitHub contribution streak for nmcosta5" />
+</p>
 <p align="center"><sub>Cards update dynamically and summarize activity from public repositories.</sub></p>
 
 ## Let’s connect
